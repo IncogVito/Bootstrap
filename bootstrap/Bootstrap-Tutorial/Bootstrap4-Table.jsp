@@ -22,28 +22,185 @@
             </thead>
             <tbody>
                 <tr>
-                    <th>Mike</th>
-                    <th>Pencte</th>
-                    <th>89</th>
+                    <td>Mike</td>
+                    <td>Pencte</td>
+                    <td>89</td>
                         
                 </tr>
                 <tr>
-                    <th>Mike</th>
-                    <th>Pencte</th>
-                    <th><button>Coś tam</button></th>
+                    <td>Mike</td>
+                    <td>Pencte</td>
+                    <td><button>Coś tam</button></td>
                             
                 </tr>
                 <tr>
-                    <th>Mike</th>
-                    <th>Pencte</th>
-                    <th>89</th>
+                    <td>Mike</td>
+                    <td>Pencte</td>
+                    <td>89</td>
                                 
                 </tr>
             </tbody>
         </table>
+    </div>
+
+    <div class="container">
+        <table class="table table-striped  table-hover">
+            <thead>
+                    <tr>
+                        <th>First Name</th>
+                        <th>Second Name</th>
+                        <th>Age </th>
+                    </tr>
+            </thead>
+            <tbody>
+                    <tr>
+                        <td>Mike</td>
+                        <td>Pencte</td>
+                        <td>89</td>       
+                    </tr>
+                    <tr>
+                        <td>Mike</td>
+                        <td>Pencte</td>
+                        <td><button>Coś tam</button></td>           
+                    </tr>
+                    <tr>
+                        <td>Mike</td>
+                        <td>Pencte</td>
+                        <td>89</td>             
+                    </tr>
+            </tbody>
+
+        </table>
+
 
 
     </div>
 
+    <div class="container">
+            <table class="table table-hover">
+                <thead>
+                        <tr>
+                            <th>First Name</th>
+                            <th>Second Name</th>
+                            <th>Age </th>
+                        </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td>Mike</td>
+                            <td>Pencte</td>
+                            <td>89</td>       
+                        </tr>
+                        <tr>
+                            <td>Mike</td>
+                            <td>Pencte</td>
+                            <td><button>Coś tam</button></td>           
+                        </tr>
+                        <tr>
+                            <td>Mike</td>
+                            <td>Pencte</td>
+                            <td>89</td>             
+                        </tr>
+                </tbody>
+    
+            </table>
+        </div>
+
+
+        
+    <div class="container">
+            <table class="table table-dark table-hover">
+                <thead>
+                        <tr>
+                            <th>First Name</th>
+                            <th>Second Name</th>
+                            <th>Age </th>
+                        </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td>Mike</td>
+                            <td>Pencte</td>
+                            <td>89</td>       
+                        </tr>
+                        <tr>
+                            <td>Mike</td>
+                            <td>Pencte</td>
+                            <td><button>Coś tam</button></td>           
+                        </tr>
+                        <tr>
+                            <td>Mike</td>
+                            <td>Pencte</td>
+                            <td>89</td>             
+                        </tr>
+                </tbody>
+    
+            </table>
+        </div>
+
+
+
+        
+    <div class="container">
+            <table class="table table-stripped table-borderless table-hover">
+                <thead>
+                        <tr>
+                            <th>First Name</th>
+                            <th>Second Name</th>
+                            <th>Age </th>
+                        </tr>
+                </thead>
+                <tbody>
+                        <tr>
+                            <td>Mike</td>
+                            <td>Pencte</td>
+                            <td>89</td>       
+                        </tr>
+                        <tr>
+                            <td>Mike</td>
+                            <td>Pencte</td>
+                            <td><button>Coś tam</button></td>           
+                        </tr>
+                        <tr>
+                            <td>Mike</td>
+                            <td>Pencte</td>
+                            <td>89</td>             
+                        </tr>
+                </tbody>
+    
+            </table>
+        </div>
+
+
+        
+    <div class="container">
+            <table class="table">
+                <thead class="thead-dark">
+                        <tr>
+                            <th>First Name</th>
+                            <th>Second Name</th>
+                            <th>Age </th>
+                        </tr>
+                </thead>
+                <tbody>
+                        <tr class="table-primary">
+                            <td>Mike</td>
+                            <td>Pencte</td>
+                            <td>89</td>       
+                        </tr>
+                        <tr class="table-success">
+                            <td>Mike</td>
+                            <td>Pencte</td>
+                            <td><button>Coś tam</button></td>           
+                        </tr>
+                        <tr>
+                            <td>Mike</td>
+                            <td>Pencte</td>
+                            <td>89</td>             
+                        </tr>
+                </tbody>
+    
+            </table>
+        </div>
 </body>
 </html>
